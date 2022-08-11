@@ -31,6 +31,7 @@ We are a group of open source developers specializing on sustainable open source
 - [the-guild.dev](https://github.com/the-guild-org/the-guild-website)'s source code
 - [Our docs infrastructure](https://github.com/the-guild-org/the-guild-docs) we use on all of our websites. Based on [Nextra](https://github.com/shuding/nextra) which we are also helping maintain
 - [GitHub-Notion Sync Bot](https://github.com/the-guild-org/notion-github-sync). A CloudFlare Worker / script / bot to sync Notion pages publicly as GitHub Discussions. Helps us work in public.
+- [Shared repo configurations and pipelines](https://github.com/the-guild-org/shared-config)
 - [changesets-dependencies-action](https://github.com/the-guild-org/changesets-dependencies-action). A GitHub Action for creating Changesets files for dependencies updates.
 - [changesets-snapshot-action](https://github.com/the-guild-org/changesets-snapshot-action). A GitHub Action for making Snapshot releases using Changesets
 - [Content Bot](https://github.com/the-guild-org/content-bot). Helps us better centralized content that need to be posted on the newsletters or other mediums
